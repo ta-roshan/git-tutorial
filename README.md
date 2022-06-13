@@ -1,2 +1,2 @@
 # git-tutorial
-Private repo for hands on git tutorial of module-1
+Private repo for hands on git tutorial of module-assignment-1
